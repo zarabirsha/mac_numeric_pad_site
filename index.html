@@ -110,6 +110,41 @@
             line-height: 1.3;
         }
 
+        .btn {
+            display: inline-block;
+            font-size: 17px;
+            font-weight: 400;
+            color: var(--bg);
+            background: var(--accent);
+            padding: 14px 32px;
+            border-radius: 980px;
+            text-decoration: none;
+            transition: background 0.2s, transform 0.2s;
+        }
+
+        .btn:hover {
+            background: #717171;
+            transform: scale(1.02);
+        }
+
+        .hero-actions {
+            margin-top: 36px;
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: var(--accent);
+            border: 1px solid var(--accent);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(0, 113, 227, 0.08);
+        }
+
         /* Screenshots */
         .screenshots {
             display: flex;
@@ -233,23 +268,6 @@
             margin-bottom: 32px;
         }
 
-        .contact a {
-            display: inline-block;
-            font-size: 17px;
-            font-weight: 400;
-            color: var(--bg);
-            background: var(--accent);
-            padding: 14px 32px;
-            border-radius: 980px;
-            text-decoration: none;
-            transition: background 0.2s, transform 0.2s;
-        }
-
-        .contact a:hover {
-            background: #717171;
-            transform: scale(1.02);
-        }
-
         /* Footer */
         footer {
             border-top: 1px solid var(--border);
@@ -316,6 +334,10 @@
     <section class="hero">
         <h1>Mac Numeric Pad</h1>
         <p class="tagline">Your iPhone becomes a sleek numeric keypad for your Mac. Simple, wireless, and always ready.</p>
+        <div class="hero-actions">
+            <a class="btn" href="https://download.lightme.site/Mac%20Numeric%20Pad%20Companion.app.zip">Download for Mac</a>
+            <a class="btn btn-secondary" href="#features">Learn more</a>
+        </div>
     </section>
 
     <div class="screenshots">
@@ -379,7 +401,7 @@
     <section class="contact" id="contact">
         <h2>Questions or feedback?</h2>
         <p>We'd love to hear from you.</p>
-        <a href="mailto:support@lightme.site?subject=Mac%20Numeric%20Pad">Email Us</a>
+        <a class="btn" href="mailto:support@lightme.site?subject=Mac%20Numeric%20Pad">Email Us</a>
     </section>
 
     <footer>
