@@ -1,0 +1,33 @@
+# robots.txt for Padme — https://mac-numeric-pad.lightme.site/
+User-agent: *
+Allow: /
+
+# LLM / AI crawlers explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://mac-numeric-pad.lightme.site/sitemap.xml

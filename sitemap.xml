@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://mac-numeric-pad.lightme.site/</loc>
+        <lastmod>2026-07-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://mac-numeric-pad.lightme.site/imgs/padme-numeric-keypad.webp</image:loc>
+            <image:title>Padme numeric keypad layout on iPhone</image:title>
+            <image:caption>Padme turns your iPhone into a wireless numeric keypad for Mac.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://mac-numeric-pad.lightme.site/imgs/padme-navigation-keypad.webp</image:loc>
+            <image:title>Padme navigation keypad layout on iPhone</image:title>
+            <image:caption>Padme navigation keypad with arrow keys, connected to a Mac over Wi-Fi.</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://mac-numeric-pad.lightme.site/imgs/padme-edit-page.webp</image:loc>
+            <image:title>Padme custom keypad editor</image:title>
+            <image:caption>Padme's layout editor lets you drag, resize, and arrange keys to build a custom keypad.</image:caption>
+        </image:image>
+    </url>
+</urlset>

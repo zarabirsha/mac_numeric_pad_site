@@ -1,0 +1,35 @@
+# Padme
+
+> Padme is the custom keypad for Mac. It is an iOS app that turns an iPhone into a fully custom wireless keypad for a Mac — numeric keypad, navigation pad, and macro pad in one.
+
+Padme lets you build unlimited custom keypad layouts with numbers, navigation keys, punctuation, letters, and key combinations, and connect them to your Mac wirelessly over local Wi-Fi. No cables or adapters are required. The Padme Companion app for Mac is bundled inside the iOS app and is AirDropped to the Mac from within Padme on the iPhone — there is no separate companion app to download.
+
+## Key facts
+- Product name: Padme — Custom Keypad for Mac
+- Platforms: iOS app (controller) + macOS companion app
+- Connection: Wireless over local Wi-Fi (no cables, no adapters)
+- Companion Mac app: Bundled in the iOS app, AirDropped from the iPhone (no separate download)
+- Pricing: Free download, with an option to unlock unlimited keyboards
+- Author / Publisher: Giuseppe Bertolini
+- Website: https://mac-numeric-pad.lightme.site/
+- Support email: support@lightme.site
+
+## Features
+- Fully custom keypad layouts — drag, resize, and edit individual keys
+- Mix numbers, navigation, punctuation, letters, and key combinations
+- Unlimited keyboards — create and import as many layouts as you want
+- Wireless, instant connection to Mac over local Wi-Fi
+- Switch instantly between layouts (numeric pad, navigation pad, macro pad, and more)
+- Companion Mac app bundled and AirDroppable from iOS
+
+## Common use cases
+- Wireless numeric keypad / numpad for MacBooks without a number pad
+- Navigation pad with arrow keys for editing and navigation
+- Macro pad / shortcut pad for app-specific shortcuts and key combinations
+
+## Links
+- Website: https://mac-numeric-pad.lightme.site/
+- Download on the App Store: https://apps.apple.com/app/padme-custom-keypad-for-mac/id6784965259
+- Screenshot (numeric keypad): https://mac-numeric-pad.lightme.site/imgs/padme-numeric-keypad.webp
+- Screenshot (navigation keypad): https://mac-numeric-pad.lightme.site/imgs/padme-navigation-keypad.webp
+- Screenshot (keypad editor): https://mac-numeric-pad.lightme.site/imgs/padme-edit-page.webp
